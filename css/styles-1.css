@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 1rem;
+  font-family: 'Bitter', serif;
+}
+h1 {
+  color: #694E4E;
+  font-size: 8.125rem;
+  font-family: 'Sacramento',cursive;
+  margin: 100px auto 0 auto;
+}
+h2 {
+  color: #694E4E;
+  font-size: 3rem;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: normal;
+  margin: 0 auto;
+
+}
+h3 {
+  color: #51612b;
+  font-size: 2rem;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: normal;
+  margin: 10px auto 10px auto;
+  position: relative;
+  right: 170px;
+}
+hr {
+   border-style: dotted none none none;
+   border-top-color:#B8B2A6;
+   border-top-width:10px;
+   margin: 20px auto;
+   width: 5%
+}
+th {
+  text-align: left;
+}
+.top-container {
+  background-color: #F4DADA;
+  position: absolute;
+  top: 0;
+  height: 780px;
+  width: 100%;
+  padding-top: 30px;
+}
+.middle-container {
+  background-color: #DBE9B7;
+  position: absolute;
+  top: 810px;
+  height: 1700px;
+  width: 100%;
+
+}
+.bottom-container {
+  background-color: #B8B2A6;
+  position: absolute;
+  top: 2510px;
+  height: 100px;
+  width: 100%;
+}
+.contact-me {
+  margin: 50px auto;
+}
+.experience-row1 {
+  width: 70%;
+  margin: 10px auto 10px auto;
+
+}
+.experience-row2 {
+  width: 50%;
+  margin: 10px auto 10px auto;
+
+}
+.experience-row3 {
+  width: 50%;
+  margin: 10px auto 10px auto;
+
+}
+.extable1 {
+  margin-left: 220px;
+  text-align: start;
+  width: 60%;
+}
+.exul {
+  text-align: start;
+  position: relative;
+  right: 190px;
+  width: 77%
+}
+.extable2 {
+  margin: 0 auto;
+  text-align: start;
+  width: 60%;
+  position: absolute;
+  left: 480px;
+}
+.middlep {
+  line-height: 1.5;
+}
+.contacth3 {
+  position: relative;
+  left: 20px;
+  top: 10px;
+}
+.contacthr {
+  margin-top: 150px;
+  margin-left: 800px;
+}
+.topimg {
+  position: absolute;
+  left: 650px;
+  top: 30px;
+}
+.middleimg {
+  margin: 30px auto 0 auto;
+  width: 30%;
+  border-radius: 100%;
+}
+.experience-img1 {
+  width: 15%;
+  border-radius: 100%;
+  float: left;
+}
+.experience-img2 {
+  border-radius: 100%;
+  float: left;
+  position: relative;
+  right: 260px;
+  top: 10px;
+  width: 260px;
+}
+.skills-img {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  position: relative;
+  right: 220px;
+}
+.mainimg {
+  height: 300px;
+  margin: 0 auto;
+  width: 300px;
+  position: absolute;
+  bottom: 0;
+  left: 40%;
+}
+
+.tree1 {
+  height: 400px;
+  width: 500px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.lanterns1 {
+  height: 375px;
+  width: 270px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
